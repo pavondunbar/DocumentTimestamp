@@ -1,6 +1,6 @@
 pragma solidity ^0.4.23
 
-// Document Timestamping Smart Contract by Pavon Dunbar
+// Document Timestamping & Recording Smart Contract by Pavon Dunbar
 
 // Begin Smart Contract
 
