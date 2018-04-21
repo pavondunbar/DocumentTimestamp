@@ -1,4 +1,4 @@
-pragma solidity ^0.4.23
+pragma solidity ^0.4.23;
 
 // Document Timestamping & Recording Smart Contract by Pavon Dunbar
 
@@ -40,7 +40,7 @@ contract DocumentTimestamp{
         }else{
             addDocument(hash);
 
-            DocumentEvent(documents[hash].blockNumber, hash);
+            emit DocumentEvent(documents[hash].blockNumber, hash);
 
             success = true;
         }
