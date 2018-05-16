@@ -1,2 +1,2 @@
 # DocumentTimestamp
-Document Timestamping &amp; Recording Smart Contract
+Document Timestamping &amp; Recording Smart Contract written in Solidity
